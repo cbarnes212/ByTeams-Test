@@ -11,7 +11,7 @@
         ]
       },
       {
-        "type": "www",
+        "type": "https",
         "direction": "out",
         "name": "$return"
       }
