@@ -11,7 +11,7 @@
         ]
       },
       {
-        "type": "http",
+        "type": "www",
         "direction": "out",
         "name": "$return"
       }
